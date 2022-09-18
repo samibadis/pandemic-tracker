@@ -17,8 +17,8 @@
 
 ## 🚀 How to use
 
-- Install packages with `yarn` or `npm install`.
-- Run `yarn start` or `npm run start` to start the bundler.
+- Install packages with `yarn`.
+- Run `yarn start` or `npm start` to start the bundler.
 - Open the project in a React runtime to try it:
   - iOS: [Client iOS](https://itunes.apple.com/app/apple-store/id982107779)
   - Android: [Client Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=blankexample)
@@ -35,3 +35,7 @@
 - Learn more about [Universal React](https://docs.expo.dev/).
 - See what API and components are [available in the React runtimes](https://docs.expo.dev/versions/latest/).
 - Find out more about developing apps and websites: [Official guides](https://docs.expo.dev/guides/).
+
+## ⚙️ Firebase & Google Maps API keys
+- Firebase configuration goes into [consants/variables.js].
+- Google Maps ApI key goes into [app.json] in ["android": { "config": { "googleMaps": { "apiKey": "YOUR_KEY_HERE" }},].
