@@ -23,7 +23,7 @@
       "config": {
         "googleMaps": { "apiKey": "YOUR_KEY_HERE" }
       },
-      "package": "dz.univkhenchela.nabil",
+      "package": "dz.undercoverboomer.pandemictracker",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
