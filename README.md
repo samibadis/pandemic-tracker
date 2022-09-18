@@ -35,3 +35,7 @@
 - Learn more about [Universal React](https://docs.expo.dev/).
 - See what API and components are [available in the React runtimes](https://docs.expo.dev/versions/latest/).
 - Find out more about developing apps and websites: [Official guides](https://docs.expo.dev/guides/).
+
+## ⚙️ Firebase & Google Maps API keys
+- Firebase configuration goes into [consants/variables.js].
+- Google Maps ApI key goes into [app.json] in ["android": { "config": { "googleMaps": { "apiKey": "YOUR_KEY_HERE" }},].
